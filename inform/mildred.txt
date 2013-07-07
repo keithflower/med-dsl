@@ -1,0 +1,35 @@
+"Mildred Christian" by Keith Flower
+"Exam Room"
+
+The Exam Room is a room. "This is your examination room in the West Berkeley Health Center. It has all the standard things an exam room has: exam table, exam instruments, medical equipment."
+
+Mildred Christian is a person.
+
+Mildred Christian is a female.
+
+Mildred Christian is here.
+
+boyfriend is a person.
+
+boyfriend is a male.
+
+boyfriend is here.
+
+A person has a number called age.
+
+Age of Mildred is 22.
+
+The description of Mildred Christian's age is "22 years old".
+
+A flu is a kind of thing.
+
+A disease is a kind of thing.
+
+Requesting the age of a person is an action out of world.
+
+After asking Mildred about “age”: 
+say “Mildred says, ‘I am 22 years old.”
+
+
+After asking Mildred about “illness”: 
+say “Mildred says, ‘I think I have the flu.”

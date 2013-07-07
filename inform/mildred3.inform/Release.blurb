@@ -1,0 +1,61 @@
+! Blurb file created by Inform build 6G60
+
+status "/Applications/Inform.app/Contents/Resources/Inform7/Extensions/Reserved/CblorbModel.html" "/Users/keith/mildred3.inform/Build/StatusCblorb.html"
+
+
+! Identification
+
+project folder "/Users/keith/mildred3.inform"
+release to "/Users/keith/mildred3 Materials/Release"
+
+! Blorb instructions
+
+storyfile leafname "Mildred Christian.zblorb"
+storyfile "/Users/keith/mildred3.inform/Build/output.z8" include
+ifiction "/Users/keith/mildred3.inform/Metadata.iFiction" include
+cover "/Applications/Inform.app/Contents/Resources/Inform7/Extensions/Reserved/DefaultCover.jpg"
+picture 1 "/Applications/Inform.app/Contents/Resources/Inform7/Extensions/Reserved/DefaultCover.jpg"
+release file "/Applications/Inform.app/Contents/Resources/Inform7/Extensions/Reserved/Cover.jpg"
+release file "/Applications/Inform.app/Contents/Resources/Inform7/Extensions/Reserved/Small Cover.jpg"
+picture 3 "/Users/keith/mildred3 Materials/Figures/mildred.jpg"
+picture 4 "/Users/keith/mildred3 Materials/Figures/clinic_small.jpg"
+picture 6 "/Users/keith/mildred3 Materials/Figures/Fundus_normal_od_small.jpg"
+picture 7 "/Users/keith/mildred3 Materials/Figures/Fundus_normal_os_small.jpg"
+picture 8 "/Users/keith/mildred3 Materials/Figures/brown_eye_small.jpg"
+sound 5 "/Users/keith/mildred3 Materials/Sounds/normal_heartbeat.ogg"
+
+! Placeholder variables
+
+placeholder [IFID] = "98169362-CC40-4931-8C17-5BDFEE193322"
+placeholder [RELEASE] = "1"
+placeholder [YEAR] = "2012"
+placeholder [TITLE] = "Mildred Christian"
+placeholder [AUTHOR] = "Judith A. Lubbers, M.D; Inform version by Keith Flower."
+placeholder [BLURB] = "A work of interactive fiction."
+
+! Other material to release
+
+
+! Website instructions
+
+placeholder [ENCODEDSTORYFILE] = "Mildred Christian.zblorb.js"
+template path "/Users/keith/mildred3 Materials/Templates"
+template path "/Users/keith/Library/Inform/Templates"
+template path "/Applications/Inform.app/Contents/Resources/Inform7/Extensions/Reserved/Templates"
+interpreter "Vorple" "z"
+base64 "/Users/keith/mildred3.inform/Build/output.z8" to "/Users/keith/mildred3 Materials/Release/interpreter/Mildred Christian.zblorb.js"
+
+! Website instructions
+
+template path "/Users/keith/mildred3 Materials/Templates"
+template path "/Users/keith/Library/Inform/Templates"
+template path "/Applications/Inform.app/Contents/Resources/Inform7/Extensions/Reserved/Templates"
+css
+website "Standard"
+status instruction ||&nbsp;<a href="source:story.ni#line6"><img border=0 src=inform:/Reveal.tif></a>||
+status alternative ||Using 'Release along with cover art', to provide something more distinctive than the default artwork above&nbsp;<a href=inform:/doc391.html><img border=0 src=inform:/help.png></a>||
+status alternative ||Using 'Release along with the "Such-and-Such" file called "whatever.pdf"', perhaps to add a manual, or a welcoming note&nbsp;<a href=inform:/doc389.html><img border=0 src=inform:/help.png></a>||
+status alternative ||Using 'Release along with the source text'&nbsp;<a href=inform:/doc399.html><img border=0 src=inform:/help.png></a>||
+status alternative ||Using 'Release along with a solution'&nbsp;<a href=inform:/doc398.html><img border=0 src=inform:/help.png></a>||
+status alternative ||Using 'Release along with the library card'&nbsp;<a href=inform:/doc399.html><img border=0 src=inform:/help.png></a>||
+status alternative ||Using 'Release along with the introductory booklet'&nbsp;<a href=inform:/doc392.html><img border=0 src=inform:/help.png></a>||

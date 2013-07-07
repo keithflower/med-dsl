@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>Graphics</key>
+        <dict>
+            <key>3</key>
+            <string>Figures/mildred.jpg</string>
+            <key>4</key>
+            <string>Figures/clinic_small.jpg</string>
+            <key>6</key>
+            <string>Figures/Fundus_normal_od_small.jpg</string>
+            <key>7</key>
+            <string>Figures/Fundus_normal_os_small.jpg</string>
+            <key>8</key>
+            <string>Figures/brown_eye_small.jpg</string>
+        </dict>
+        <key>Sounds</key>
+        <dict>
+            <key>5</key>
+            <string>Sounds/normal_heartbeat.ogg</string>
+        </dict>
+    </dict>
+</plist>

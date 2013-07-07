@@ -1,0 +1,317 @@
+<?xml version="1.0"?>
+<Skein rootNode="node-0xac19670" xmlns="http://www.logicalshift.org.uk/IF/Skein">
+  <generator>Zoom</generator>
+  <activeNode nodeId="node-0xf6e4210" />
+  <item nodeId="node-0xac19670">
+    <command xml:space="preserve">- start -</command>
+    <result xml:space="preserve">
+
+
+
+The Ring, the Gardener and the the Maid
+An Interactive Fiction
+Release 1 / Serial number 121023 / Inform 7 build 6G60 (I6/v6.32 lib 6/12N) SD
+
+Dining Room
+Most of the room is taken up with a large wooden dining table. The only way out is to the south.
+
+On the large wooden dining table is a gold ring.
+
+Sarah is busily polishing the table.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="217">NO</temporary>
+    <children>
+      <child nodeId="node-0x13356b10" />
+    </children>
+  </item>
+  <item nodeId="node-0x13356b10">
+    <command xml:space="preserve">get ring</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="217">YES</temporary>
+    <children>
+      <child nodeId="node-0x97e25e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x97e25e0">
+    <command xml:space="preserve">south</command>
+    <result xml:space="preserve">
+Hall
+This large bare hall has exits to north and east.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="217">YES</temporary>
+    <children>
+      <child nodeId="node-0x133ed2b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x133ed2b0">
+    <command xml:space="preserve">north</command>
+    <result xml:space="preserve">
+Dining Room
+Most of the room is taken up with a large wooden dining table. The only way out is to the south.
+
+Sarah is busily polishing the table.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="217">YES</temporary>
+    <children>
+      <child nodeId="node-0xe7a5540" />
+    </children>
+  </item>
+  <item nodeId="node-0xe7a5540">
+    <command xml:space="preserve">tell sarah hello</command>
+    <result xml:space="preserve">&quot;Excuse me&quot;, you say.
+
+&quot;Yes?&quot; she asks.
+
+She mutters something incomprehensible under her breath.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="217">YES</temporary>
+    <children>
+      <child nodeId="node-0xee2b5a0" />
+    </children>
+  </item>
+  <item nodeId="node-0xee2b5a0">
+    <command xml:space="preserve">tell woman hi</command>
+    <result xml:space="preserve">She mutters something incomprehensible under her breath.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="217">YES</temporary>
+    <children>
+      <child nodeId="node-0x171bc220" />
+    </children>
+  </item>
+  <item nodeId="node-0x171bc220">
+    <command xml:space="preserve">say hi to sarah</command>
+    <result xml:space="preserve">You are already talking to Sarah.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="217">YES</temporary>
+    <children>
+      <child nodeId="node-0xee17970" />
+    </children>
+  </item>
+  <item nodeId="node-0xee17970">
+    <command xml:space="preserve">chat with sarah</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="217">YES</temporary>
+    <children>
+      <child nodeId="node-0x13396930" />
+    </children>
+  </item>
+  <item nodeId="node-0x13396930">
+    <command xml:space="preserve">hello sarah</command>
+    <result xml:space="preserve">I only understood you as far as wanting to hello.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="217">YES</temporary>
+    <children>
+      <child nodeId="node-0x170c85e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x170c85e0">
+    <command xml:space="preserve">hello</command>
+    <result xml:space="preserve">You are already talking to Sarah.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="217">YES</temporary>
+    <children>
+      <child nodeId="node-0xe7c2b70" />
+    </children>
+  </item>
+  <item nodeId="node-0xe7c2b70">
+    <command xml:space="preserve">sarah</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="217">YES</temporary>
+    <children>
+      <child nodeId="node-0x170c44c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x170c44c0">
+    <command xml:space="preserve">say hello</command>
+    <result xml:space="preserve">You are already talking to Sarah.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="217">YES</temporary>
+    <children>
+      <child nodeId="node-0xe713b20" />
+    </children>
+  </item>
+  <item nodeId="node-0xe713b20">
+    <command xml:space="preserve">tell sarah hi</command>
+    <result xml:space="preserve">She mutters something incomprehensible under her breath.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="217">YES</temporary>
+    <children>
+      <child nodeId="node-0xe7b6770" />
+    </children>
+  </item>
+  <item nodeId="node-0xe7b6770">
+    <command xml:space="preserve">tell sarah hello</command>
+    <result xml:space="preserve">She mutters something incomprehensible under her breath.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="217">YES</temporary>
+    <children>
+      <child nodeId="node-0x14e13630" />
+    </children>
+  </item>
+  <item nodeId="node-0x14e13630">
+    <command xml:space="preserve">ask sarah about ring</command>
+    <result xml:space="preserve">&quot;You don&apos;t mind if I take this ring then?&quot; you ask.
+
+&quot;As long as you&apos;re only taking it to return it to its owner.&quot; she replies.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="217">YES</temporary>
+    <children>
+      <child nodeId="node-0x170d4bd0" />
+    </children>
+  </item>
+  <item nodeId="node-0x170d4bd0">
+    <command xml:space="preserve">ask sarah table</command>
+    <result xml:space="preserve">I didn&apos;t understand that sentence.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="217">YES</temporary>
+    <children>
+      <child nodeId="node-0x170d9c90" />
+    </children>
+  </item>
+  <item nodeId="node-0x170d9c90">
+    <command xml:space="preserve">ask sarah about table</command>
+    <result xml:space="preserve">&quot;Have you been polishing that table long?&quot; you ask.
+
+&quot;Long enough.&quot; she replies.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="217">YES</temporary>
+    <children>
+      <child nodeId="node-0xb13b980" />
+    </children>
+  </item>
+  <item nodeId="node-0xb13b980">
+    <command xml:space="preserve">say goodbye to sarah</command>
+    <result xml:space="preserve">Cheerio then,&quot; you say.
+
+&quot;See you,&quot; she replies.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="217">YES</temporary>
+    <children>
+      <child nodeId="node-0x134a23c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x134a23c0">
+    <command xml:space="preserve">ask sarah about weather</command>
+    <result xml:space="preserve">&quot;Excuse me&quot;, you say.
+
+&quot;Yes?&quot; she asks.
+
+&quot;Lovely weather today, don&apos;t you think?&quot; you remark.
+
+&quot;Don&apos;t you have anything more interesting to talk about?&quot; she complains.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="217">YES</temporary>
+    <children>
+      <child nodeId="node-0xe795e10" />
+    </children>
+  </item>
+  <item nodeId="node-0xe795e10">
+    <command xml:space="preserve">ask sarah for weather</command>
+    <result xml:space="preserve">She mutters something incomprehensible under her breath.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="217">YES</temporary>
+    <children>
+      <child nodeId="node-0xf6ec380" />
+    </children>
+  </item>
+  <item nodeId="node-0xf6ec380">
+    <command xml:space="preserve">hi sarah</command>
+    <result xml:space="preserve">I only understood you as far as wanting to hi.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="217">YES</temporary>
+    <children>
+      <child nodeId="node-0xe78c480" />
+    </children>
+  </item>
+  <item nodeId="node-0xe78c480">
+    <command xml:space="preserve">hi, sarah</command>
+    <result xml:space="preserve">You are already talking to Sarah.
+
+That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="217">YES</temporary>
+    <children>
+      <child nodeId="node-0xf6e4210" />
+    </children>
+  </item>
+  <item nodeId="node-0xf6e4210">
+    <command xml:space="preserve">hello, sarah</command>
+    <result xml:space="preserve">You are already talking to Sarah.
+
+That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="216">YES</temporary>
+  </item>
+</Skein>

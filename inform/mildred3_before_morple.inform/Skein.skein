@@ -1,0 +1,1641 @@
+<?xml version="1.0"?>
+<Skein rootNode="node-0x171398c0" xmlns="http://www.logicalshift.org.uk/IF/Skein">
+  <generator>Zoom</generator>
+  <activeNode nodeId="node-0x1cbb24c0" />
+  <item nodeId="node-0x171398c0">
+    <command xml:space="preserve">- start -</command>
+    <result xml:space="preserve">
+
+
+
+
+Mildred Christian
+An Interactive Fiction by Judith A. Lubbers, M.D;  Inform version by Keith Flower.
+Release 1 / Serial number 121028 / Inform 7 build 6G60 (I6/v6.32 lib 6/12N) SD
+
+Clinic hallway
+It&apos;s your usual Wednesday at the West Berkeley Health Center. You are standing in the hallway outside an exam room.
+
+You can see a chart here.
+
+9:00 am&gt; </result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1179">NO</temporary>
+    <children>
+      <child nodeId="node-0x171d9ab0" />
+      <child nodeId="node-0x30dccde0" />
+      <child nodeId="node-0x395f1230" />
+      <child nodeId="node-0x39517210" />
+    </children>
+  </item>
+  <item nodeId="node-0x39517210">
+    <command xml:space="preserve">ask mildred about age</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+9:00 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1096">YES</temporary>
+    <children>
+      <child nodeId="node-0x4619c890" />
+    </children>
+  </item>
+  <item nodeId="node-0x4619c890">
+    <command xml:space="preserve">in</command>
+    <result xml:space="preserve">
+Exam room
+This is a standard clinic exam room.  There is an exam table and two chairs. Standard medical examination equipment is available here.
+
+Ms. Christian lies on the exam table shivering. She has a heavy down coat drawn up around her face. She seems uncomfortable, but is able to answer questions.
+
+9:01 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1096">YES</temporary>
+    <children>
+      <child nodeId="node-0x4365c520" />
+    </children>
+  </item>
+  <item nodeId="node-0x4365c520">
+    <command xml:space="preserve">ask mildred about age</command>
+    <result xml:space="preserve">(Mildred Christian about that)
+I am 22 years old.&quot;
+
+[Your score has just gone up by one point.]
+
+9:02 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1096">YES</temporary>
+    <children>
+      <child nodeId="node-0x46153fc0" />
+    </children>
+  </item>
+  <item nodeId="node-0x46153fc0">
+    <command xml:space="preserve">ask mildred for her age</command>
+    <result xml:space="preserve">(Mildred Christian for)
+9:03 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1096">YES</temporary>
+    <children>
+      <child nodeId="node-0x30dfa490" />
+    </children>
+  </item>
+  <item nodeId="node-0x30dfa490">
+    <command xml:space="preserve">ask mildred about her age</command>
+    <result xml:space="preserve">(Mildred Christian about that)
+I am 22 years old.&quot;
+
+9:04 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1096">YES</temporary>
+    <children>
+      <child nodeId="node-0x38877b40" />
+    </children>
+  </item>
+  <item nodeId="node-0x38877b40">
+    <command xml:space="preserve">ask mildred for age</command>
+    <result xml:space="preserve">(Mildred Christian for)
+9:05 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1095">YES</temporary>
+  </item>
+  <item nodeId="node-0x395f1230">
+    <command xml:space="preserve">enter exam room</command>
+    <result xml:space="preserve">
+Exam room
+This is a standard clinic exam room.  There is an exam table and two chairs. Standard medical examination equipment is available here.
+
+Ms. Christian lies on the exam table shivering. She has a heavy down coat drawn up around her face. She seems uncomfortable, but is able to answer questions.
+
+9:01 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1075">YES</temporary>
+    <children>
+      <child nodeId="node-0x436ebce0" />
+    </children>
+  </item>
+  <item nodeId="node-0x436ebce0">
+    <command xml:space="preserve">leave</command>
+    <result xml:space="preserve">
+Clinic hallway
+It&apos;s your usual Wednesday at the West Berkeley Health Center. You are standing in the hallway outside an exam room.
+
+You can see a chart here.
+
+9:02 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1075">YES</temporary>
+    <children>
+      <child nodeId="node-0x395b1ea0" />
+    </children>
+  </item>
+  <item nodeId="node-0x395b1ea0">
+    <command xml:space="preserve">enter exam room</command>
+    <result xml:space="preserve">
+Exam room
+This is a standard clinic exam room.  There is an exam table and two chairs. Standard medical examination equipment is available here.
+
+Ms. Christian lies on the exam table shivering. She has a heavy down coat drawn up around her face. She seems uncomfortable, but is able to answer questions.
+
+9:03 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1075">YES</temporary>
+    <children>
+      <child nodeId="node-0x436b9df0" />
+    </children>
+  </item>
+  <item nodeId="node-0x436b9df0">
+    <command xml:space="preserve">leave</command>
+    <result xml:space="preserve">
+Clinic hallway
+It&apos;s your usual Wednesday at the West Berkeley Health Center. You are standing in the hallway outside an exam room.
+
+You can see a chart here.
+
+9:04 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1075">YES</temporary>
+    <children>
+      <child nodeId="node-0x4875a250" />
+    </children>
+  </item>
+  <item nodeId="node-0x4875a250">
+    <command xml:space="preserve">take chart</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+9:04 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1075">YES</temporary>
+    <children>
+      <child nodeId="node-0x4a576a90" />
+    </children>
+  </item>
+  <item nodeId="node-0x4a576a90">
+    <command xml:space="preserve">read chart</command>
+    <result xml:space="preserve">You read: 
+  Mildred Christian
+  Age _____ 
+  Pulse ______ 
+  Blood pressure _______ 
+  Temp________ 
+  Nurses notes:  &quot;Her boyfriend brought her here. He says she has the flu&quot;
+
+9:05 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1075">YES</temporary>
+    <children>
+      <child nodeId="node-0x43656cd0" />
+    </children>
+  </item>
+  <item nodeId="node-0x43656cd0">
+    <command xml:space="preserve">in</command>
+    <result xml:space="preserve">
+Exam room
+This is a standard clinic exam room.  There is an exam table and two chairs. Standard medical examination equipment is available here.
+
+Ms. Christian lies on the exam table shivering. She has a heavy down coat drawn up around her face. She seems uncomfortable, but is able to answer questions.
+
+9:06 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1075">YES</temporary>
+    <children>
+      <child nodeId="node-0x395e9a30" />
+    </children>
+  </item>
+  <item nodeId="node-0x395e9a30">
+    <command xml:space="preserve">mildred, why are you here</command>
+    <result xml:space="preserve">I&apos;ve just been so sick, mainly sick to my stomach.
+
+[Your score has just gone up by one point.]
+
+9:07 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1075">YES</temporary>
+    <children>
+      <child nodeId="node-0x38817460" />
+    </children>
+  </item>
+  <item nodeId="node-0x38817460">
+    <command xml:space="preserve">inventory</command>
+    <result xml:space="preserve">You are carrying:
+  a tongue-depressor
+  a stethoscope
+  a penlight
+
+9:08 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1075">YES</temporary>
+    <children>
+      <child nodeId="node-0x30d5ff80" />
+    </children>
+  </item>
+  <item nodeId="node-0x30d5ff80">
+    <command xml:space="preserve">out</command>
+    <result xml:space="preserve">
+Clinic hallway
+It&apos;s your usual Wednesday at the West Berkeley Health Center. You are standing in the hallway outside an exam room.
+
+You can see a chart here.
+
+9:09 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1075">YES</temporary>
+    <children>
+      <child nodeId="node-0x436b4290" />
+    </children>
+  </item>
+  <item nodeId="node-0x436b4290">
+    <command xml:space="preserve">in</command>
+    <result xml:space="preserve">
+Exam room
+This is a standard clinic exam room.  There is an exam table and two chairs. Standard medical examination equipment is available here.
+
+Ms. Christian lies on the exam table shivering. She has a heavy down coat drawn up around her face. She seems uncomfortable, but is able to answer questions.
+
+9:10 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1075">YES</temporary>
+    <children>
+      <child nodeId="node-0x38853ac0" />
+    </children>
+  </item>
+  <item nodeId="node-0x38853ac0">
+    <command xml:space="preserve">out</command>
+    <result xml:space="preserve">
+Clinic hallway
+It&apos;s your usual Wednesday at the West Berkeley Health Center. You are standing in the hallway outside an exam room.
+
+You can see a chart here.
+
+9:11 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1075">YES</temporary>
+    <children>
+      <child nodeId="node-0x436faef0" />
+    </children>
+  </item>
+  <item nodeId="node-0x436faef0">
+    <command xml:space="preserve">knock</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+9:11 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1075">YES</temporary>
+    <children>
+      <child nodeId="node-0x157a5260" />
+    </children>
+  </item>
+  <item nodeId="node-0x157a5260">
+    <command xml:space="preserve">enter</command>
+    <result xml:space="preserve">
+Exam room
+This is a standard clinic exam room.  There is an exam table and two chairs. Standard medical examination equipment is available here.
+
+Ms. Christian lies on the exam table shivering. She has a heavy down coat drawn up around her face. She seems uncomfortable, but is able to answer questions.
+
+9:12 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1075">YES</temporary>
+    <children>
+      <child nodeId="node-0x4618bf60" />
+    </children>
+  </item>
+  <item nodeId="node-0x4618bf60">
+    <command xml:space="preserve">mildred sit up</command>
+    <result xml:space="preserve">Mildred Christian sits up.
+
+9:13 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1075">YES</temporary>
+    <children>
+      <child nodeId="node-0x461caf20" />
+    </children>
+  </item>
+  <item nodeId="node-0x461caf20">
+    <command xml:space="preserve">mildred, age?</command>
+    <result xml:space="preserve">&quot;Hmmf,&quot; says Mildred Christian.
+
+9:14 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1075">YES</temporary>
+    <children>
+      <child nodeId="node-0x30d26dc0" />
+    </children>
+  </item>
+  <item nodeId="node-0x30d26dc0">
+    <command xml:space="preserve">mildred, age</command>
+    <result xml:space="preserve">I am 22 years old.&quot;
+
+[Your score has just gone up by one point.]
+
+9:15 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1074">YES</temporary>
+  </item>
+  <item nodeId="node-0x30dccde0">
+    <command xml:space="preserve">read chart</command>
+    <result xml:space="preserve">You read: 
+  Mildred Christian
+  Age _____ 
+  Pulse ______ 
+  Blood pressure _______ 
+  Temp________ 
+  Nurses notes:  &quot;Her boyfriend brought her here. He says she has the flu&quot;
+
+9:01 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1057">YES</temporary>
+    <children>
+      <child nodeId="node-0x261026f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x261026f0">
+    <command xml:space="preserve">in</command>
+    <result xml:space="preserve">
+
+
+Exam room
+This is a standard clinic exam room.  There is an exam table and two chairs. Standard medical examination equipment is available here.
+
+Ms. Christian lies on the exam table shivering. She has a heavy down coat drawn up around her face. She seems uncomfortable, but is able to answer questions.
+
+9:02 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1057">YES</temporary>
+    <children>
+      <child nodeId="node-0x388e93a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x388e93a0">
+    <command xml:space="preserve">mildred, age</command>
+    <result xml:space="preserve">I am 22 years old.&quot;
+
+[Your score has just gone up by one point.]
+
+9:03 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1057">YES</temporary>
+    <children>
+      <child nodeId="node-0x3880c490" />
+    </children>
+  </item>
+  <item nodeId="node-0x3880c490">
+    <command xml:space="preserve">mildred how old are you</command>
+    <result xml:space="preserve">I didn&apos;t understand that sentence.
+
+9:03 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1057">YES</temporary>
+    <children>
+      <child nodeId="node-0x2db03750" />
+    </children>
+  </item>
+  <item nodeId="node-0x2db03750">
+    <command xml:space="preserve">get mildred age</command>
+    <result xml:space="preserve">I didn&apos;t understand that sentence.
+
+9:03 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1057">YES</temporary>
+    <children>
+      <child nodeId="node-0x2db7e000" />
+    </children>
+  </item>
+  <item nodeId="node-0x2db7e000">
+    <command xml:space="preserve">mildred, how old are you</command>
+    <result xml:space="preserve">I am 22 years old.&quot;
+
+9:04 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1057">YES</temporary>
+    <children>
+      <child nodeId="node-0x30d099f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x30d099f0">
+    <command xml:space="preserve">pt, details</command>
+    <result xml:space="preserve">I&apos;ve been throwing up all day. Whatever I eat goes right through me, and now I don&apos;t want to eat. My stomach hurts. 
+
+[Your score has just gone up by one point.]
+
+9:05 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1057">YES</temporary>
+    <children>
+      <child nodeId="node-0x2db743e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2db743e0">
+    <command xml:space="preserve">pt, complaint</command>
+    <result xml:space="preserve">I&apos;ve just been so sick, mainly sick to my stomach.
+
+Great, you got some initial information. Now get into greater detail
+You enter the exam room.
+
+[Your score has just gone up by one point.]
+
+9:06 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1057">YES</temporary>
+    <children>
+      <child nodeId="node-0x3959a310" />
+    </children>
+  </item>
+  <item nodeId="node-0x3959a310">
+    <command xml:space="preserve">pt, pain</command>
+    <result xml:space="preserve">It&apos;s been crampy, and it comes and goes.
+
+[Your score has just gone up by one point.]
+
+9:07 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1057">YES</temporary>
+    <children>
+      <child nodeId="node-0x3884ee10" />
+    </children>
+  </item>
+  <item nodeId="node-0x3884ee10">
+    <command xml:space="preserve">pt, diarrhea</command>
+    <result xml:space="preserve">I haven&apos;t thrown up anything like coffee grounds, nor bright red blood.
+
+Ok, enough info - let&apos;s do an exam on the patient.
+
+[Your score has just gone up by one point.]
+
+9:08 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1057">YES</temporary>
+    <children>
+      <child nodeId="node-0x2dbba790" />
+    </children>
+  </item>
+  <item nodeId="node-0x2dbba790">
+    <command xml:space="preserve">examine pt eyes</command>
+    <result xml:space="preserve">I only understood you as far as wanting to examine Mildred Christian.
+
+9:08 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1057">YES</temporary>
+    <children>
+      <child nodeId="node-0x388b4d30" />
+    </children>
+  </item>
+  <item nodeId="node-0x388b4d30">
+    <command xml:space="preserve">examine pt&apos;s eyes</command>
+    <result xml:space="preserve">I only understood you as far as wanting to examine Mildred Christian.
+
+9:08 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1057">YES</temporary>
+    <children>
+      <child nodeId="node-0x436e2460" />
+    </children>
+  </item>
+  <item nodeId="node-0x436e2460">
+    <command xml:space="preserve">examine mildred&apos;s eyes</command>
+    <result xml:space="preserve">
+
+
+
+
+
+9:09 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1057">YES</temporary>
+    <children>
+      <child nodeId="node-0x395acab0" />
+    </children>
+  </item>
+  <item nodeId="node-0x395acab0">
+    <command xml:space="preserve">examine pt eyes</command>
+    <result xml:space="preserve">I only understood you as far as wanting to examine Mildred Christian.
+
+9:09 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1056">YES</temporary>
+  </item>
+  <item nodeId="node-0x171d9ab0">
+    <command xml:space="preserve">in</command>
+    <result xml:space="preserve">
+Exam room
+This is a standard clinic exam room.  There is an exam table and two chairs. Standard medical examination equipment is available here.
+
+Ms. Christian lies on the exam table shivering. She has a heavy down coat drawn up around her face. She seems uncomfortable, but is able to answer questions.
+
+9:01 am&gt; </result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1179">NO</temporary>
+    <children>
+      <child nodeId="node-0x134e0a40" />
+      <child nodeId="node-0x388479c0" />
+      <child nodeId="node-0x3951e640" />
+      <child nodeId="node-0x4877c3a0" />
+      <child nodeId="node-0x30d32a40" />
+      <child nodeId="node-0x461b3270" />
+      <child nodeId="node-0x4613b700" />
+      <child nodeId="node-0x461afd80" />
+      <child nodeId="node-0x487d26c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x487d26c0">
+    <command xml:space="preserve">mildred, what is your chief complaint</command>
+    <result xml:space="preserve">I&apos;ve just been so sick, mainly sick to my stomach.
+
+[Your score has just gone up by one point.]
+
+9:02 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1179">YES</temporary>
+    <children>
+      <child nodeId="node-0x1cbb24c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x1cbb24c0">
+    <command xml:space="preserve">mildred, why are you here?</command>
+    <result xml:space="preserve">I&apos;ve just been so sick, mainly sick to my stomach.
+
+9:03 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1178">YES</temporary>
+  </item>
+  <item nodeId="node-0x461afd80">
+    <command xml:space="preserve">mildred, age?</command>
+    <result xml:space="preserve">I am 22 years old.&quot;
+
+[Your score has just gone up by one point.]
+
+9:02 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1088">YES</temporary>
+    <children>
+      <child nodeId="node-0x461730d0" />
+      <child nodeId="node-0x4a556530" />
+    </children>
+  </item>
+  <item nodeId="node-0x4a556530">
+    <command xml:space="preserve">age?</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+9:02 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1083">YES</temporary>
+    <children>
+      <child nodeId="node-0x38870a30" />
+    </children>
+  </item>
+  <item nodeId="node-0x38870a30">
+    <command xml:space="preserve">age</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+9:02 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1083">YES</temporary>
+    <children>
+      <child nodeId="node-0x461980d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x461980d0">
+    <command xml:space="preserve">mildred, age?</command>
+    <result xml:space="preserve">&quot;Hmmf,&quot; says Mildred Christian.
+
+9:03 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1083">YES</temporary>
+    <children>
+      <child nodeId="node-0xeeae670" />
+    </children>
+  </item>
+  <item nodeId="node-0xeeae670">
+    <command xml:space="preserve">ask mildred, age?</command>
+    <result xml:space="preserve">You can&apos;t use multiple objects with that verb.
+
+9:03 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1083">YES</temporary>
+    <children>
+      <child nodeId="node-0x43640940" />
+    </children>
+  </item>
+  <item nodeId="node-0x43640940">
+    <command xml:space="preserve">ask mildred</command>
+    <result xml:space="preserve">What do you want to ask Mildred Christian for?
+
+9:03 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1083">YES</temporary>
+    <children>
+      <child nodeId="node-0x395c8870" />
+    </children>
+  </item>
+  <item nodeId="node-0x395c8870">
+    <command xml:space="preserve">ask mildred age?</command>
+    <result xml:space="preserve">I didn&apos;t understand that sentence.
+
+9:03 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1082">YES</temporary>
+  </item>
+  <item nodeId="node-0x461730d0">
+    <command xml:space="preserve">mildred, how old are you?</command>
+    <result xml:space="preserve">I am 22 years old.&quot;
+
+9:03 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1088">YES</temporary>
+    <children>
+      <child nodeId="node-0x39505aa0" />
+    </children>
+  </item>
+  <item nodeId="node-0x39505aa0">
+    <command xml:space="preserve">mildred, sit up</command>
+    <result xml:space="preserve">&quot;Hmmf,&quot; says Mildred Christian.
+
+9:04 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1088">YES</temporary>
+    <children>
+      <child nodeId="node-0x2db74440" />
+    </children>
+  </item>
+  <item nodeId="node-0x2db74440">
+    <command xml:space="preserve">mildred sit up</command>
+    <result xml:space="preserve">Mildred Christian sits up.
+
+9:05 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1087">YES</temporary>
+  </item>
+  <item nodeId="node-0x4613b700">
+    <command xml:space="preserve">ask mildred to give her age</command>
+    <result xml:space="preserve">I didn&apos;t understand that sentence.
+
+9:01 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1139">YES</temporary>
+    <children>
+      <child nodeId="node-0x2dbb3b90" />
+    </children>
+  </item>
+  <item nodeId="node-0x2dbb3b90">
+    <command xml:space="preserve">ask mildred her age</command>
+    <result xml:space="preserve">I didn&apos;t understand that sentence.
+
+9:01 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1139">YES</temporary>
+    <children>
+      <child nodeId="node-0x4a571140" />
+    </children>
+  </item>
+  <item nodeId="node-0x4a571140">
+    <command xml:space="preserve">ask mildred about her age</command>
+    <result xml:space="preserve">(Mildred Christian about that)
+I am 22 years old.&quot;
+
+[Your score has just gone up by one point.]
+
+9:02 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1139">YES</temporary>
+    <children>
+      <child nodeId="node-0x395743e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x395743e0">
+    <command xml:space="preserve">ask mildred for her age</command>
+    <result xml:space="preserve">(Mildred Christian for)
+9:03 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1139">YES</temporary>
+    <children>
+      <child nodeId="node-0x4879d1e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4879d1e0">
+    <command xml:space="preserve">mildred, tell me your age</command>
+    <result xml:space="preserve">I am 22 years old.&quot;
+
+9:04 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1138">YES</temporary>
+  </item>
+  <item nodeId="node-0x461b3270">
+    <command xml:space="preserve">ask mildred for age</command>
+    <result xml:space="preserve">(Mildred Christian for)
+I&apos;m 22.
+
+[Your score has just gone up by one point.]
+
+9:02 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1124">YES</temporary>
+    <children>
+      <child nodeId="node-0x46156ba0" />
+      <child nodeId="node-0x48769b10" />
+    </children>
+  </item>
+  <item nodeId="node-0x48769b10">
+    <command xml:space="preserve">ask mildred for her age</command>
+    <result xml:space="preserve">I only understood you as far as wanting to ask Mildred Christian for Mildred Christian.
+
+9:01 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1104">YES</temporary>
+    <children>
+      <child nodeId="node-0x43607570" />
+    </children>
+  </item>
+  <item nodeId="node-0x43607570">
+    <command xml:space="preserve">mildred, age</command>
+    <result xml:space="preserve">I am 22 years old.&quot;
+
+[Your score has just gone up by one point.]
+
+9:02 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1103">YES</temporary>
+  </item>
+  <item nodeId="node-0x46156ba0">
+    <command xml:space="preserve">mildred, age</command>
+    <result xml:space="preserve">I am 22 years old.&quot;
+
+Great, you got the initial information. Let&apos;s get some additional detail about the HPI
+You enter the exam room.
+
+[Your score has just gone up by one point.]
+
+9:03 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1123">YES</temporary>
+  </item>
+  <item nodeId="node-0x30d32a40">
+    <command xml:space="preserve">mildred what is your age</command>
+    <result xml:space="preserve">I didn&apos;t understand that sentence.
+
+9:01 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1114">YES</temporary>
+    <children>
+      <child nodeId="node-0x436dedb0" />
+    </children>
+  </item>
+  <item nodeId="node-0x436dedb0">
+    <command xml:space="preserve">mildred, what is your age</command>
+    <result xml:space="preserve">I am 22 years old.&quot;
+
+[Your score has just gone up by one point.]
+
+9:02 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1114">YES</temporary>
+    <children>
+      <child nodeId="node-0x38884250" />
+    </children>
+  </item>
+  <item nodeId="node-0x38884250">
+    <command xml:space="preserve">ask mildred for her age</command>
+    <result xml:space="preserve">(Mildred Christian for)
+9:03 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1114">YES</temporary>
+    <children>
+      <child nodeId="node-0x30d14a90" />
+    </children>
+  </item>
+  <item nodeId="node-0x30d14a90">
+    <command xml:space="preserve">ask mildred her age</command>
+    <result xml:space="preserve">I didn&apos;t understand that sentence.
+
+9:03 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1114">YES</temporary>
+    <children>
+      <child nodeId="node-0x2db50d20" />
+    </children>
+  </item>
+  <item nodeId="node-0x2db50d20">
+    <command xml:space="preserve">ask mildred for her age</command>
+    <result xml:space="preserve">(Mildred Christian for)
+9:04 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1114">YES</temporary>
+    <children>
+      <child nodeId="node-0x436d1790" />
+    </children>
+  </item>
+  <item nodeId="node-0x436d1790">
+    <command xml:space="preserve">ask mildred for age</command>
+    <result xml:space="preserve">(Mildred Christian for)
+I&apos;m 22.
+
+9:05 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1113">YES</temporary>
+  </item>
+  <item nodeId="node-0x4877c3a0">
+    <command xml:space="preserve">ask mildred for her age</command>
+    <result xml:space="preserve">(Mildred Christian for)
+9:02 am&gt; </result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1133">YES</temporary>
+    <children>
+      <child nodeId="node-0x436bfec0" />
+    </children>
+  </item>
+  <item nodeId="node-0x436bfec0">
+    <command xml:space="preserve">ask mildred for age</command>
+    <result xml:space="preserve">(Mildred Christian for)
+I&apos;m 22.
+
+[Your score has just gone up by one point.]
+
+9:03 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1133">YES</temporary>
+    <children>
+      <child nodeId="node-0x4617b190" />
+    </children>
+  </item>
+  <item nodeId="node-0x4617b190">
+    <command xml:space="preserve">ask mildred about her age</command>
+    <result xml:space="preserve">(Mildred Christian about that)
+I am 22 years old.&quot;
+
+Great, you got the initial information. Let&apos;s get some additional detail about the HPI
+You enter the exam room.
+
+[Your score has just gone up by one point.]
+
+9:04 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1133">YES</temporary>
+    <children>
+      <child nodeId="node-0x48767e70" />
+    </children>
+  </item>
+  <item nodeId="node-0x48767e70">
+    <command xml:space="preserve">ask mildred about her pain</command>
+    <result xml:space="preserve">(Mildred Christian about that)
+It&apos;s been crampy, and it comes and goes.
+
+[Your score has just gone up by one point.]
+
+9:05 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1133">YES</temporary>
+    <children>
+      <child nodeId="node-0x436748e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x436748e0">
+    <command xml:space="preserve">mildred, age</command>
+    <result xml:space="preserve">&quot;Hmmf,&quot; says Mildred Christian.
+
+9:06 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1133">YES</temporary>
+    <children>
+      <child nodeId="node-0x461104d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x461104d0">
+    <command xml:space="preserve">out</command>
+    <result xml:space="preserve">
+Clinic hallway
+It&apos;s your usual Wednesday at the West Berkeley Health Center. You are standing in the hallway outside an exam room.
+
+You can see a chart here.
+
+9:07 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1133">YES</temporary>
+    <children>
+      <child nodeId="node-0x388f3a20" />
+    </children>
+  </item>
+  <item nodeId="node-0x388f3a20">
+    <command xml:space="preserve">in</command>
+    <result xml:space="preserve">
+Exam room
+This is a standard clinic exam room.  There is an exam table and two chairs. Standard medical examination equipment is available here.
+
+Ms. Christian lies on the exam table shivering. She has a heavy down coat drawn up around her face. She seems uncomfortable, but is able to answer questions.
+
+9:08 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1133">YES</temporary>
+    <children>
+      <child nodeId="node-0x461aabf0" />
+    </children>
+  </item>
+  <item nodeId="node-0x461aabf0">
+    <command xml:space="preserve">mildred, details</command>
+    <result xml:space="preserve">&quot;Hmmf,&quot; says Mildred Christian.
+
+9:09 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1132">YES</temporary>
+  </item>
+  <item nodeId="node-0x3951e640">
+    <command xml:space="preserve">mildred, sit up</command>
+    <result xml:space="preserve">&quot;Hmmf,&quot; says Mildred Christian.
+
+There is no reply.
+
+9:02 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1089">YES</temporary>
+  </item>
+  <item nodeId="node-0x388479c0">
+    <command xml:space="preserve">mildred sit up</command>
+    <result xml:space="preserve">Mildred Christian sits up.
+
+9:02 am&gt; </result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1043">YES</temporary>
+    <children>
+      <child nodeId="node-0x2dba3fd0" />
+    </children>
+  </item>
+  <item nodeId="node-0x2dba3fd0">
+    <command xml:space="preserve">take mildred pulse</command>
+    <result xml:space="preserve">142
+9:03 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1043">YES</temporary>
+    <children>
+      <child nodeId="node-0x388d2c10" />
+    </children>
+  </item>
+  <item nodeId="node-0x388d2c10">
+    <command xml:space="preserve">mildred stand up</command>
+    <result xml:space="preserve">Mildred Christian stands up.
+
+9:04 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1043">YES</temporary>
+    <children>
+      <child nodeId="node-0x388544f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x388544f0">
+    <command xml:space="preserve">take mildred pulse</command>
+    <result xml:space="preserve">144
+9:05 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1043">YES</temporary>
+    <children>
+      <child nodeId="node-0x30d374f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x30d374f0">
+    <command xml:space="preserve">mildred lay down</command>
+    <result xml:space="preserve">Mildred Christian lays down.
+
+9:06 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1043">YES</temporary>
+    <children>
+      <child nodeId="node-0x30d50d80" />
+    </children>
+  </item>
+  <item nodeId="node-0x30d50d80">
+    <command xml:space="preserve">take mildred pulse</command>
+    <result xml:space="preserve">130
+9:07 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1043">YES</temporary>
+  </item>
+  <item nodeId="node-0x134e0a40">
+    <command xml:space="preserve">mildred, age</command>
+    <result xml:space="preserve">I am 22 years old.&quot;
+
+[Your score has just gone up by one point.]
+
+9:02 am&gt; </result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1176">NO</temporary>
+    <children>
+      <child nodeId="node-0x1cbc1340" />
+      <child nodeId="node-0x46170ce0" />
+      <child nodeId="node-0x436d4140" />
+      <child nodeId="node-0x436bfb90" />
+    </children>
+  </item>
+  <item nodeId="node-0x436bfb90">
+    <command xml:space="preserve">ask mildred for age</command>
+    <result xml:space="preserve">(Mildred Christian for)
+I&apos;m 22.
+
+Great, you got the initial information. Let&apos;s get some additional detail about the HPI
+You enter the exam room.
+
+[Your score has just gone up by one point.]
+
+9:03 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1145">YES</temporary>
+    <children>
+      <child nodeId="node-0x487a2e60" />
+    </children>
+  </item>
+  <item nodeId="node-0x487a2e60">
+    <command xml:space="preserve">ask mildred for details</command>
+    <result xml:space="preserve">(Mildred Christian for)
+9:04 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1145">YES</temporary>
+    <children>
+      <child nodeId="node-0x48727350" />
+    </children>
+  </item>
+  <item nodeId="node-0x48727350">
+    <command xml:space="preserve">ask mildred for pain</command>
+    <result xml:space="preserve">(Mildred Christian for)
+9:05 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1145">YES</temporary>
+    <children>
+      <child nodeId="node-0x3952b060" />
+    </children>
+  </item>
+  <item nodeId="node-0x3952b060">
+    <command xml:space="preserve">ask mildred about pain</command>
+    <result xml:space="preserve">(Mildred Christian about that)
+There is no reply.
+
+9:06 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1144">YES</temporary>
+  </item>
+  <item nodeId="node-0x436d4140">
+    <command xml:space="preserve">pt, details</command>
+    <result xml:space="preserve">I&apos;ve been throwing up all day. Whatever I eat goes right through me, and now I don&apos;t want to eat. My stomach hurts. 
+
+Great, you got the initial information. Let&apos;s get some additional detail about the HPI
+You enter the exam room.
+
+[Your score has just gone up by one point.]
+
+9:03 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1176">YES</temporary>
+    <children>
+      <child nodeId="node-0x38845070" />
+    </children>
+  </item>
+  <item nodeId="node-0x38845070">
+    <command xml:space="preserve">ask pt for complaint</command>
+    <result xml:space="preserve">9:04 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1176">YES</temporary>
+    <children>
+      <child nodeId="node-0x4612b1b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4612b1b0">
+    <command xml:space="preserve">ask pt for her complaint</command>
+    <result xml:space="preserve">9:05 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1176">YES</temporary>
+    <children>
+      <child nodeId="node-0x436ad070" />
+    </children>
+  </item>
+  <item nodeId="node-0x436ad070">
+    <command xml:space="preserve">ask pt age</command>
+    <result xml:space="preserve">I didn&apos;t understand that sentence.
+
+9:05 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1176">YES</temporary>
+    <children>
+      <child nodeId="node-0x436d5c20" />
+    </children>
+  </item>
+  <item nodeId="node-0x436d5c20">
+    <command xml:space="preserve">mildred, complaint</command>
+    <result xml:space="preserve">&quot;Hmmf,&quot; says Mildred Christian.
+
+9:06 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1176">YES</temporary>
+    <children>
+      <child nodeId="node-0x436350d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x436350d0">
+    <command xml:space="preserve">ask mildred about vomiting</command>
+    <result xml:space="preserve">(Mildred Christian about that)
+There is no reply.
+
+9:07 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1176">YES</temporary>
+    <children>
+      <child nodeId="node-0x4a5de7b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4a5de7b0">
+    <command xml:space="preserve">ask mildred about vomit</command>
+    <result xml:space="preserve">(Mildred Christian about that)
+There is no reply.
+
+9:08 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1176">YES</temporary>
+    <children>
+      <child nodeId="node-0x4872c920" />
+    </children>
+  </item>
+  <item nodeId="node-0x4872c920">
+    <command xml:space="preserve">mildred, vomit</command>
+    <result xml:space="preserve">I started throwing up about 8 hours ago.
+
+[Your score has just gone up by one point.]
+
+9:09 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1176">YES</temporary>
+    <children>
+      <child nodeId="node-0x30da16e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x30da16e0">
+    <command xml:space="preserve">mildred, pain</command>
+    <result xml:space="preserve">It&apos;s been crampy, and it comes and goes.
+
+[Your score has just gone up by one point.]
+
+9:10 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1176">YES</temporary>
+    <children>
+      <child nodeId="node-0x4877f5b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4877f5b0">
+    <command xml:space="preserve">mildred, tell me about diarrhea</command>
+    <result xml:space="preserve">There is no reply.
+
+9:11 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1176">YES</temporary>
+    <children>
+      <child nodeId="node-0x4617acc0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4617acc0">
+    <command xml:space="preserve">mildred, tell me about pain</command>
+    <result xml:space="preserve">There is no reply.
+
+9:12 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1176">YES</temporary>
+    <children>
+      <child nodeId="node-0x487c9560" />
+    </children>
+  </item>
+  <item nodeId="node-0x487c9560">
+    <command xml:space="preserve">mildred, what about pain</command>
+    <result xml:space="preserve">It&apos;s been crampy, and it comes and goes.
+
+9:13 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1176">YES</temporary>
+    <children>
+      <child nodeId="node-0x30d320e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x30d320e0">
+    <command xml:space="preserve">mildred, what about diarrhea</command>
+    <result xml:space="preserve">I haven&apos;t thrown up anything like coffee grounds, nor bright red blood.
+
+Ok, enough info - let&apos;s do an exam on the patient.
+
+[Your score has just gone up by one point.]
+
+9:14 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1176">YES</temporary>
+    <children>
+      <child nodeId="node-0x39501660" />
+    </children>
+  </item>
+  <item nodeId="node-0x39501660">
+    <command xml:space="preserve">listen to mildred&apos;s heart</command>
+    <result xml:space="preserve">You put your stethoscope at the apex and hear…
+9:15 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1175">YES</temporary>
+  </item>
+  <item nodeId="node-0x46170ce0">
+    <command xml:space="preserve">mildred, details</command>
+    <result xml:space="preserve">I&apos;ve been throwing up all day. Whatever I eat goes right through me, and now I don&apos;t want to eat. My stomach hurts. 
+
+Great, you got the initial information. Let&apos;s get some additional detail about the HPI
+You enter the exam room.
+
+[Your score has just gone up by one point.]
+
+9:03 am&gt; </result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="1160">YES</temporary>
+    <children>
+      <child nodeId="node-0x48764bb0" />
+      <child nodeId="node-0x436e5f60" />
+    </children>
+  </item>
+  <item nodeId="node-0x436e5f60">
+    <command xml:space="preserve">mildred, vomit</command>
+    <result xml:space="preserve">I started throwing up about 8 hours ago.
+
+[Your score has just gone up by one point.]
+
+9:04 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1160">YES</temporary>
+    <children>
+      <child nodeId="node-0x487f3fb0" />
+    </children>
+  </item>
+  <item nodeId="node-0x487f3fb0">
+    <command xml:space="preserve">mildred, diarrhea</command>
+    <result xml:space="preserve">I haven&apos;t thrown up anything like coffee grounds, nor bright red blood.
+
+[Your score has just gone up by one point.]
+
+9:05 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1160">YES</temporary>
+    <children>
+      <child nodeId="node-0x487d4620" />
+    </children>
+  </item>
+  <item nodeId="node-0x487d4620">
+    <command xml:space="preserve">mildred, pain</command>
+    <result xml:space="preserve">It&apos;s been crampy, and it comes and goes.
+
+Ok, enough info - let&apos;s do an exam on the patient.
+
+[Your score has just gone up by one point.]
+
+9:06 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1160">YES</temporary>
+    <children>
+      <child nodeId="node-0x388dd050" />
+    </children>
+  </item>
+  <item nodeId="node-0x388dd050">
+    <command xml:space="preserve">listen to mildred&apos;s heart</command>
+    <result xml:space="preserve">9:07 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1159">YES</temporary>
+  </item>
+  <item nodeId="node-0x48764bb0">
+    <command xml:space="preserve">mildred, pain</command>
+    <result xml:space="preserve">It&apos;s been crampy, and it comes and goes.
+
+[Your score has just gone up by one point.]
+
+9:04 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1153">YES</temporary>
+    <children>
+      <child nodeId="node-0x487e5140" />
+    </children>
+  </item>
+  <item nodeId="node-0x487e5140">
+    <command xml:space="preserve">mildred, diarrhea</command>
+    <result xml:space="preserve">I haven&apos;t thrown up anything like coffee grounds, nor bright red blood.
+
+[Your score has just gone up by one point.]
+
+9:05 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1153">YES</temporary>
+    <children>
+      <child nodeId="node-0x4a5b0080" />
+    </children>
+  </item>
+  <item nodeId="node-0x4a5b0080">
+    <command xml:space="preserve">mildred, vomit</command>
+    <result xml:space="preserve">I started throwing up about 8 hours ago.
+
+Ok, enough info - let&apos;s do an exam on the patient.
+
+[Your score has just gone up by one point.]
+
+9:06 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1153">YES</temporary>
+    <children>
+      <child nodeId="node-0x4366b1a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4366b1a0">
+    <command xml:space="preserve">listen to mildred&apos;s heart</command>
+    <result xml:space="preserve">9:07 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1153">YES</temporary>
+    <children>
+      <child nodeId="node-0x48784c90" />
+    </children>
+  </item>
+  <item nodeId="node-0x48784c90">
+    <command xml:space="preserve">auscultate mildred&apos;s heart</command>
+    <result xml:space="preserve">9:08 am&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1152">YES</temporary>
+  </item>
+  <item nodeId="node-0x1cbc1340">
+    <command xml:space="preserve">mildred, why is she here</command>
+    <result xml:space="preserve">&quot;Hmmf,&quot; says Mildred Christian.
+
+9:03 am&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="463">NO</temporary>
+    <children>
+      <child nodeId="node-0x1beadab0" />
+    </children>
+  </item>
+  <item nodeId="node-0x1beadab0">
+    <command xml:space="preserve">mildred, why she is here</command>
+    <result xml:space="preserve">I&apos;ve just been so sick, mainly sick to my stomach.
+
+[Your score has just gone up by one point.]
+
+9:04 am&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="463">NO</temporary>
+    <children>
+      <child nodeId="node-0x15739c80" />
+    </children>
+  </item>
+  <item nodeId="node-0x15739c80">
+    <command xml:space="preserve">mildred details</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+9:04 am&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="463">NO</temporary>
+    <children>
+      <child nodeId="node-0x15701890" />
+    </children>
+  </item>
+  <item nodeId="node-0x15701890">
+    <command xml:space="preserve">mildred, details</command>
+    <result xml:space="preserve">I&apos;ve been throwing up all day. Whatever I eat goes right through me, and now I don&apos;t want to eat. My stomach hurts. 
+
+Great, you got the initial information
+[Your score has just gone up by one point.]
+
+9:05 am&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="463">NO</temporary>
+    <children>
+      <child nodeId="node-0x19795210" />
+    </children>
+  </item>
+  <item nodeId="node-0x19795210">
+    <command xml:space="preserve">mildred, times vomited</command>
+    <result xml:space="preserve">&quot;Hmmf,&quot; says Mildred Christian.
+
+9:06 am&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="463">NO</temporary>
+    <children>
+      <child nodeId="node-0x197d15a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x197d15a0">
+    <command xml:space="preserve">mildred, diarrhea</command>
+    <result xml:space="preserve">I haven&apos;t thrown up anything like coffee grounds, nor bright red blood.
+
+[Your score has just gone up by one point.]
+
+9:07 am&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="463">NO</temporary>
+    <children>
+      <child nodeId="node-0xf6a3210" />
+    </children>
+  </item>
+  <item nodeId="node-0xf6a3210">
+    <command xml:space="preserve">mildred, black</command>
+    <result xml:space="preserve">&quot;Hmmf,&quot; says Mildred Christian.
+
+9:08 am&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="463">NO</temporary>
+    <children>
+      <child nodeId="node-0x170c83f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x170c83f0">
+    <command xml:space="preserve">mildred, black stools</command>
+    <result xml:space="preserve">&quot;Hmmf,&quot; says Mildred Christian.
+
+9:09 am&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="463">NO</temporary>
+    <children>
+      <child nodeId="node-0x1975d7b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x1975d7b0">
+    <command xml:space="preserve">mildred, tarry</command>
+    <result xml:space="preserve">&quot;Hmmf,&quot; says Mildred Christian.
+
+9:10 am&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="463">NO</temporary>
+    <children>
+      <child nodeId="node-0x1be2b910" />
+    </children>
+  </item>
+  <item nodeId="node-0x1be2b910">
+    <command xml:space="preserve">mildred, vomit</command>
+    <result xml:space="preserve">&quot;Hmmf,&quot; says Mildred Christian.
+
+9:11 am&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="463">NO</temporary>
+    <children>
+      <child nodeId="node-0x1be34f70" />
+    </children>
+  </item>
+  <item nodeId="node-0x1be34f70">
+    <command xml:space="preserve">mildred, times vomited</command>
+    <result xml:space="preserve">&quot;Hmmf,&quot; says Mildred Christian.
+
+9:12 am&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="463">NO</temporary>
+    <children>
+      <child nodeId="node-0x1703c520" />
+    </children>
+  </item>
+  <item nodeId="node-0x1703c520">
+    <command xml:space="preserve">mildred diarrhea</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+9:12 am&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="463">NO</temporary>
+    <children>
+      <child nodeId="node-0x157c4f60" />
+    </children>
+  </item>
+  <item nodeId="node-0x157c4f60">
+    <command xml:space="preserve">mildred, diarrhea</command>
+    <result xml:space="preserve">I haven&apos;t thrown up anything like coffee grounds, nor bright red blood.
+
+9:13 am&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="463">NO</temporary>
+    <children>
+      <child nodeId="node-0x197059d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x197059d0">
+    <command xml:space="preserve">mildred, diarrhea appearance</command>
+    <result xml:space="preserve">I haven&apos;t thrown up anything like coffee grounds, nor bright red blood.
+
+9:14 am&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="462">NO</temporary>
+    <children>
+      <child nodeId="node-0x170656f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x170656f0">
+    <command xml:space="preserve"></command>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">NO</temporary>
+  </item>
+</Skein>
